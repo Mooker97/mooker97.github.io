@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.flex{display:flex}.flex-col{flex-direction:column}#modal{position:absolute;left:16%;top:25%;background:#fff;color:#140927;width:66%;padding:12px 16px;border-radius:10px}#modal h3{margin:12px 6px}#modal .modal-main{margin:auto;width:85%;align-items:flex-start;justify-content:flex-start}#modal .modal-btns{margin:auto;width:85%;align-items:flex-end;justify-content:flex-end}html{scroll-behavior:smooth}html body{font-family:sans-serif;margin:0}
+/*# sourceMappingURL=main.b448c097.chunk.css.map */
